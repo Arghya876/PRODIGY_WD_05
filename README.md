@@ -25,3 +25,9 @@ A simple and elegant weather application that allows users to check the current 
 3. The app fetches weather data for the entered city.
 4. Weather details are displayed with appropriate animations.
 5. If the city is not found, a custom error message is shown.
+
+## Website Link
+
+Visit the Site: [https://arghya876.github.io/PRODIGY_WD_05/](https://arghya876.github.io/PRODIGY_WD_05/)
+
+Feel free to explore the code and try it out!
